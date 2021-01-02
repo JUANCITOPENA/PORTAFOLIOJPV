@@ -3,5 +3,5 @@ PORTAFOLIOJPV
 
 ![](imagenes/portada1.png)
 
-![](TheBlacklist.png)
+![](imagenes/portada2.png)
 
