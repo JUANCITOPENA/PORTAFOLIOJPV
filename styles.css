@@ -20,6 +20,12 @@
     text-align: center;
 }
 
+.linea {
+    height: 1px;
+    background-color: red;
+  }
+
+
 .powerbi {
     border: 3px solid red;
     border-top: 5px solid orange;
